@@ -1,0 +1,4 @@
+NexiConvo: The Trusted Interaction Nexus
+Techs Used: React JS, JWT, bcrypt.js, Node JS, Express JS, MongoDB (utilizing encryption for user details)
+Key Features:Developed a robust Full Stack Chatting App, NexiConvo , leveraging modern technologies for seamless real-time communication and secure data management. Real-Time Communication: Implemented using Socket.io for instant messaging and typing indicators. User Management: Secure authentication system integrated for user login and registration, ensuring data
+integrity and user privacy. Chat Functionality: Facilitated one-to-one messaging and dynamic group chats with features for adding/removing users and managing group memberships. Advanced Search: Implemented user search functionality to easily locate and connect with other users. Notifications: Real-time notifications to keep users informed about new messages and group updates.
